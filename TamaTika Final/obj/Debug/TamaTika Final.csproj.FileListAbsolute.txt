@@ -1,0 +1,48 @@
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\bin\Debug\TamaTika Final.exe.config
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\bin\Debug\TamaTika Final.exe
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\bin\Debug\TamaTika Final.pdb
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.Properties.Resources.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.exe
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.pdb
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika Final.exe.config
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormUtama.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas1.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas2.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas3.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas4.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas5.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas6.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.Matematika3.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika4.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika5.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika6.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\bin\Debug\TamaTika Final.exe.config
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\bin\Debug\TamaTika Final.exe
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\bin\Debug\TamaTika Final.pdb
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.exe.config
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormUtama.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas1.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas2.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas3.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas4.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas5.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.FormKelas6.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\GameBelajar.Game3.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.Matematika3.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika4.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika5.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_NEW.Matematika6.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.Properties.Resources.resources
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.exe
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika Final.pdb
+C:\Users\Asus\source\repos\TAMATIKA 2\TamaTika Final\obj\Debug\TamaTika_Final.Game2.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\GameBelajar.Game3.resources
+C:\Users\Asus\source\repos\TamaTika Final\TamaTika Final\obj\Debug\TamaTika_Final.Game2.resources
